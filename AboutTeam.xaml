@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculator.AboutTeam"
+             Title="About Team">
+
+    <StackLayout Margin="30"
+                 Spacing="0">
+        <Label Text="Team Members"
+              HeightRequest="90"
+               HorizontalOptions="Center" 
+               FontSize="Large"/>
+        <Label Text="    Devayani Mandapalli -  T786Z776   "
+             HeightRequest="80"
+               HorizontalOptions="Center" 
+               FontSize="Large"
+               />
+        <Label Text="    Kavya Gurram Prasad - S394K867   "
+            HeightRequest="80"
+            HorizontalOptions="Center"
+                FontSize="Large"
+               />
+        <Label Text="Kotha Narasimha Nikhith - P537D592"
+            HorizontalOptions="Center" 
+                HeightRequest="80"
+                FontSize="Large"
+                />
+    </StackLayout>
+    
+</ContentPage>
+    
